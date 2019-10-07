@@ -1,0 +1,30 @@
+.header{
+    font-size: 3rem ;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding:1rem 0 3rem ;
+
+}
+
+.list{
+display: flex;
+list-style: none;
+
+}
+.listItems{
+    text-decoration: none;
+    margin-right: 30px;
+    color: rgb(57, 80, 19);
+    font-size: .9rem ;
+    font-weight: 400;
+    text-transform: uppercase;
+
+}
+
+.activeList{
+color:rgb(174, 236, 68)
+}
+
+  
